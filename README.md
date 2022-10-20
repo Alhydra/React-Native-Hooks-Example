@@ -3,10 +3,10 @@
 
   
 
-![React Native Hooks Example Featured Image](https://reactnativemaster.com/wp-content/uploads/2020/02/React-Native-Hooks-Example-featured.png)
+![React Native Hooks Example Featured Image](https://rn-master.com/wp-content/uploads/2020/02/React-Native-Hooks-Example-featured.png)
   
 
-My name is Youssef el habchi, from [React Native Master](https://reactnativemaster.com) I welcome each and everyone of you.
+My name is Youssef el habchi, from [React Native Master](https://rn-master.com) I welcome each and everyone of you.
 
 
 
@@ -19,7 +19,7 @@ Meaning You can use functional component and still consume State and lifecycle m
 So we will try to build a url shortener app using hooks and exploring all logic behind it.
 
 
-Feel free to read the whole article on my blog [React Native Modal Example](https://reactnativemaster.com/react-native-hooks-example/)
+Feel free to read the whole article on my blog [React Native Modal Example](https://rn-master.com/react-native-hooks-example/)
 If you would like to try the app on Expo, I have prepared an expo project, check it from  [Expo.io](https://expo.io/@alhydra/react-native-hooks-example)
 
 [Need a React Native Developer ? Hire Me](https://reactnativemaster.com/senior-react-native-developer-ready-to-go/)
